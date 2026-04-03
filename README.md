@@ -30,5 +30,3 @@ Agile Methodology
 [![https://www.linkedin.com/in/amir-saoudi05/?locale=fr_FR](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ![portfolio](portfolio.gif)
-
-![laptop](laptop.gif)
