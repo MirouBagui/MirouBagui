@@ -6,7 +6,7 @@ I leverage modern web technologies, architecture & cloud-native development.
 
 
 ## 🛠 Skills
-💫 TypeScript, React, CSS, Python, Docker, RabbitMQ ...
+💫 TypeScript, Node, Python, Docker, RabbitMQ ...
 
 
 ## Other Common Github Profile Sections
