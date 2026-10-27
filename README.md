@@ -1,7 +1,4 @@
-# 👋 Hi, I'm Amir SAOUDI
-
-**Full-Stack Software Engineer**
----
+# 👋 Hi, I'm Amir SAOUDI a **Full-Stack Software Engineer**
 
 ## 🧩 The problems I've solved
 
