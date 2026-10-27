@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amir SAOUDI
 
-**Full-Stack Software Engineer **
+**Full-Stack Software Engineer**
 ---
 
 ## 🧩 The problems I've solved
