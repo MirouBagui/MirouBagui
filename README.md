@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Amir SAOUDI a **Full-Stack Software Engineer**
+# 👋 Hi, I'm Amir Saoudi
+
+**Full-Stack Software Engineer — I solve architecture and reliability problems for high-stakes systems.**
+
+> 6+ years building systems where failure isn't an option: if it breaks, someone loses money — or worse, a race.
+
+---
 
 ## 🧩 The problems I've solved
 
